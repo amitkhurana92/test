@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: Test
   description: Test
+  annotations:
+    backstage.io/techdocs-ref: https://github.com/amitkhurana92/test.git
   tags:
     - java
     - playback
