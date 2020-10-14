@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: artist-api
-  description: Retrieve artist details
+  name: AM Transaction API
+  description: AM Transaction API
 spec:
   type: openapi
   lifecycle: production
-  owner: artist-relations@example.com
+  owner: amit.khurana@africa.airtel.com
   definition: |
     swagger: '2.0'
     info:
