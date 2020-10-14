@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: AM Transaction API
+  name: am-transaction-api
   description: AM Transaction API
 spec:
   type: openapi
