@@ -4,7 +4,7 @@ metadata:
   name: artist-web1
   description: The place to be, for great artists1
 spec:
-type: service
+  type: service
   lifecycle: production
   owner: guest1
   implementsApis:
