@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: am-transaction-api
   description: AM Transaction API
+  annotations:
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: openapi
   lifecycle: production
