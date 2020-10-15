@@ -1,4 +1,4 @@
-site_name: 'example-docs'
+site_name: 'am-transaction-api'
 
 nav:
   - Home: index.md
