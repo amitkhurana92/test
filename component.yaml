@@ -4,8 +4,8 @@ metadata:
   name: artist-web1
   description: The place to be, for great artists1
 spec:
-  type: website
+type: service
   lifecycle: production
-  owner: artist-relations@example.com1
+  owner: guest1
   implementsApis:
     - am-transaction-api
