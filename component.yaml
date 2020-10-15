@@ -6,6 +6,6 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: guest1
+  owner: guest
   implementsApis:
     - am-transaction-api
